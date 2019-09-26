@@ -1,12 +1,12 @@
 package latihan.variable;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Contoh deklarasi variabel
+ */
 public class Latihan2 {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Contoh deklarasi variabel
-     */
+	
 
 	public static void main(String[] args) {
         // Deklarasi Variabel
